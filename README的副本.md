@@ -1,2 +1,0 @@
-# cookingtale
-cooking game
