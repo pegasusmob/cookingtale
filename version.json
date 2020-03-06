@@ -2,14 +2,14 @@
 	{
 		"ID": 1,
 		"Name": "cooking-arab",
-		"Platrorm": "ios",
+		"Platform": "ios",
 		"version": "1.0.0",
 		"build": "1.0.2"
 	},
 	{
 		"ID": 2,
 		"Name": "cooking-arab",
-		"Platrorm": "gp",
+		"Platform": "gp",
 		"version": "1.0.0",
 		"build": "1.0.2"
 	}
